@@ -1,7 +1,7 @@
 ##
 Oi! Eu sou o João 👋
 
-- 🔎 Prucurando a primeira oportunidade no mercado de tecnologia
+- 🔎 Buscando a primeira oportunidade no mercado de tecnologia
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Atualmente estudando front-end
 -  💭 Corrida hoje, vitória amanhã
