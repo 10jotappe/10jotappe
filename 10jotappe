@@ -7,12 +7,14 @@ Oi! Eu sou o João 👋
 - 😄 Pronouns: Ele/Dele
 ##
 
-<p align="center">
-  <img style="display:inline-block" height="40" width="50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img style="display:inline-block" height="40" width="50" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
-  <img style="display:inline-block" height="40" width="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img style="display:inline-block" height="40" width="50" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</p>
+<table align="center">
+  <tr>
+    <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"></td>
+    <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"></td>
+    <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+  </tr>
+</table>
 
 ##
 
