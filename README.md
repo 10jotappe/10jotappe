@@ -1,7 +1,7 @@
 ##
 Oi! Eu sou o João 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento fullstack.
 Tenho experiência no desenvolvimento de aplicações utilizando Python, Flask e MySQL, criando APIs REST com autenticação, validação de dados e boas práticas. 
 Também possuo conhecimento em desenvolvimento frontend com HTML, CSS, JavaScript e React.
 Atualmente estou construindo projetos práticos para aprofundar meus conhecimentos em desenvolvimento web full stack e arquitetura de aplicações.
