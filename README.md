@@ -1,13 +1,15 @@
 ##
 Oi! Eu sou o João 👋
 
-  Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.
-  Tenho desenvolvido projetos práticos em Python, com foco em backend e APIs, incluindo integrações com MySQL para persistência de dados.
-  Também possuo experiência em projetos utilizando HTML e CSS, aplicando conceitos de estrutura, semântica e estilização para interfaces simples e funcionais.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend.
+Tenho experiência no desenvolvimento de aplicações utilizando Python, Flask e MySQL, criando APIs REST com autenticação, validação de dados e boas práticas. 
+Também possuo conhecimento em desenvolvimento frontend com HTML, CSS, JavaScript e React.
+Atualmente estou construindo projetos práticos para aprofundar meus conhecimentos em desenvolvimento web full stack e arquitetura de aplicações.
+
   
-- 🔎 Buscando a primeira oportunidade no mercado da TI
-- 👨‍🎓 ADS
-- 📍  Rio Grande do Sul
+- 👨🏾‍💻 Desenvolvedor em formação, construindo projetos e focado em desenvolvimento fullstack.
+- 👨‍🎓 Análise de Desenvolvimento de Sistemas
+- 📍 Rio Grande do Sul
 
 
   
