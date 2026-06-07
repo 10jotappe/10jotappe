@@ -8,7 +8,7 @@ Atualmente estou construindo projetos práticos para aprofundar meus conheciment
 
   
 - 👨🏾‍💻 Desenvolvedor em formação, construindo projetos e focado em desenvolvimento fullstack.
-- 👨‍🎓 Análise de Desenvolvimento de Sistemas
+- 👨🏾‍🎓 Análise de Desenvolvimento de Sistemas
 - 📍 Rio Grande do Sul
 
 
